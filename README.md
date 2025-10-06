@@ -6,6 +6,7 @@
 - Azaria Abnet - 0211/16  
 - Bamlak Chernet –  0220/16  
 - Banchiamelak Golla –  0221/16
+- Arsema Menberu - 0190/16
 
 ## Problem Statement
 
